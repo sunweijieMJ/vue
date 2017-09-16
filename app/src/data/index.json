@@ -1,0 +1,21 @@
+[
+	{
+		"nav" : [
+			{"src":"/src/assets/images/icon.jpg","font":"最新推荐"},
+			{"src":"/src/assets/images/icon1.jpg","font":"热门菜谱"},
+			{"src":"/src/assets/images/icon2.jpg","font":"人气菜肴"},
+			{"src":"/src/assets/images/icon3.jpg","font":"优惠券"},
+		]
+	},
+	{
+		"data" : {
+			"name" : "积分菜品",
+			"content" : [
+				{"name":"商务单人餐","src":"/src/assets/images/p.png","price":"￥50"},
+				{"name":"虐狗情人杯","src":"/src/assets/images/p1.png","price":"￥50"},
+				{"name":"卤香滑鸡","src":"/src/assets/images/p2.png","price":"￥50"},
+				{"name":"酷炫绵绵球","src":"/src/assets/images/p3.png","price":"￥50"}
+			]
+		}
+	}
+]

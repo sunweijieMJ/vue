@@ -1,0 +1,8 @@
+[
+	{
+		"banner" : ["/src/assets/images/banner.jpg","/src/assets/images/banner1.jpg","/src/assets/images/banner.jpg"]
+	},
+	{
+		"slide" : ["/src/assets/images/banner3.png","/src/assets/images/banner4.png","/src/assets/images/banner3.png"]
+	}
+]

@@ -1,0 +1,21 @@
+[
+	{
+		"nav" : [
+			{"src":"/src/assets/images/ms.jpg","font":"美食快拍"},
+			{"src":"/src/assets/images/cy.jpg","font":"厨艺交流"},
+			{"src":"/src/assets/images/mmp.jpg","font":"妈妈派"},
+			{"src":"/src/assets/images/ys.jpg","font":"饮食健康"},
+		]
+	},
+	{
+		"data" : {
+			"name" : "功效",
+			"content" : [
+				{"title":"五种果汁喝出美丽","src":"/src/assets/images/p.png","detail":"吐血推荐5款让你喝出健康的果汁","time":"2017-5-23","up":"点赞"},
+				{"title":"五种果汁喝出美丽","src":"/src/assets/images/p.png","detail":"吐血推荐5款让你喝出健康的果汁","time":"2017-5-23","up":"点赞"},
+				{"title":"五种果汁喝出美丽","src":"/src/assets/images/p.png","detail":"吐血推荐5款让你喝出健康的果汁","time":"2017-5-23","up":"点赞"},
+				{"title":"五种果汁喝出美丽","src":"/src/assets/images/p.png","detail":"吐血推荐5款让你喝出健康的果汁","time":"2017-5-23","up":"点赞"},
+			]
+		}
+	}
+]

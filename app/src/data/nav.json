@@ -1,0 +1,18 @@
+[
+	{
+		"nav" : [
+			{"src":"/src/assets/images/icon.jpg","font":"最新推荐"},
+			{"src":"/src/assets/images/icon1.jpg","font":"热门菜谱"},
+			{"src":"/src/assets/images/icon2.jpg","font":"人气菜肴"},
+			{"src":"/src/assets/images/icon3.jpg","font":"优惠券"},
+		]
+	},
+	{
+		"nav" : [
+			{"src":"/src/assets/images/ms.jpg","font":"美食快拍"},
+			{"src":"/src/assets/images/cy.jpg","font":"厨艺交流"},
+			{"src":"/src/assets/images/mmp.jpg","font":"妈妈派"},
+			{"src":"/src/assets/images/ys.jpg","font":"饮食健康"},
+		]
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"src": "/src/assets/images/nav.png",
+		"nav": "点餐"
+	},
+	{
+		"src": "/src/assets/images/nav2.png",
+		"nav": "客说"
+	},
+	{
+		"src": "/src/assets/images/nav3.png",
+		"nav": "我们"
+	},
+	{
+		"src": "/src/assets/images/nav4.png",
+		"nav": "我的"
+	},
+]
